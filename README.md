@@ -1,3 +1,5 @@
+Forked repository - from MonoAlg3D_C-2023. Adding folders of meshes and .ini configs to execute.
+
 This version of MonoAlg3D contains custom functions necessary to reproduce the results in Riebel et al., Scientific Reports (2024), https://doi.org/10.1038/s41598-024-67951-5.
 
 Accompanying Purkinje and biventricular infarction mesh files can be found in https://doi.org/10.5281/zenodo.14699735.
